@@ -25,5 +25,4 @@ python main.py
 Connect with me on LinkedIn 
 B.Tech CSE | Kalasalingam University
 
-License
 This project is open-source and free to use under the MIT License.
