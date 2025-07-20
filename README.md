@@ -1,6 +1,6 @@
 # Virtual-Control-using-Hand-Gestures
 
-This project enables users to control system functions virtually using hand gestures captured by a webcam.
+A computer vision project that enables virtual control of computer functions using real-time hand gestures captured via webcam. Actions include increasing/decreasing volume, scrolling, tab switching, and exiting—all hands-free.
 
 ## Features
 - Real-time hand gesture recognition
@@ -21,6 +21,9 @@ pip install -r requirements.txt
 python main.py
 
 ## Author
-**Tanu Sri Puli**  
+**Tanu Sri Puli** 
+Connect with me on LinkedIn 
 B.Tech CSE | Kalasalingam University
 
+License
+This project is open-source and free to use under the MIT License.
