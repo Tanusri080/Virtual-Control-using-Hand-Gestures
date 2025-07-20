@@ -27,7 +27,7 @@ A computer vision project that enables virtual control of computer functions usi
 
 ## 🙋‍♀️ Author
 **Tanu Sri Puli** 
-- Connect with me on LinkedIn [https://www.linkedin.com/in/tanu-sri-puli-480793268]
+- Connect with me on LinkedIn [https://linkedin.com/in/tanu-sri-puli-480793268]
 - B.Tech CSE | Kalasalingam University
 
 ## 📄 License
