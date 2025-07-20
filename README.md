@@ -25,4 +25,5 @@ python main.py
 Connect with me on LinkedIn [https://www.linkedin.com/in/tanu-sri-puli-480793268]
 B.Tech CSE | Kalasalingam University
 
+## 📄 License
 This project is open-source and free to use under the MIT License.
